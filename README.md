@@ -30,10 +30,8 @@ Users can view the latest news headlines with images, summaries, and links to fu
    ```bash
    git clone https://github.com/aruninder/News-App.git
 
-   🖼 Screenshots
+   ## 🖼 Screenshots
 
 💻 Desktop View
-
-
-
+(https://github.com/aruninder/QUICK-NEWS-APP/blob/main/demo%20screenshot/Screenshot%20(14).png?raw=true)
 📱 Mobile View
