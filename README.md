@@ -34,4 +34,6 @@ Users can view the latest news headlines with images, summaries, and links to fu
 
 💻 Desktop View
 ![desktop view](https://github.com/aruninder/QUICK-NEWS-APP/blob/main/demo%20screenshot/Screenshot%20(14).png?raw=true)
+
 📱 Mobile View
+![mobile view](https://github.com/aruninder/QUICK-NEWS-APP/blob/main/demo%20screenshot/Screenshot%20(17).png?raw=true)
